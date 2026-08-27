@@ -1,0 +1,21 @@
+predicted_position,team_name,best_player_top_scorer,scorer_goals,clean_sheets,transfer_summary,calculated_points
+1,Man City,Erling Haaland,27,0,Antoine Semenyo (In From Bournemouth),116
+2,Arsenal,Viktor Gyokeres,14,19,Bruno Guimaraes (In From Newcastle),115
+3,Brentford,Igor Thiago,22,0,Mamadou Sangare (In From Lens),101
+4,Aston Villa,Ollie Watkins,16,0,Johan Manzambi (In From Freiburg),83
+5,Chelsea,Joao Pedro,15,0,Morgan Rogers (In From Aston Villa),80
+6,Nott’m Forest,Morgan Gibbs-White,15,0,Ousmane Diomande (In From Sporting),80
+7,Bournemouth,Junior Kroupi,13,0,Antonio Silva (In From Benfica),74
+8,Brighton,Danny Welbeck,13,0,Zadok Yohanna (In From AIK),74
+9,Leeds United,Dominic Calvert-Lewin,14,0,Rasmus Kristensen (Squad Adjustments),72
+10,Crystal Palace,Jean-Philippe Mateta,12,0,Maxence Lacroix (Defensive Signing),71
+11,Burnley,Zian Flemming,11,0,Zian Flemming (In From Millwall),68
+12,Manchester United,Bryan Mbeumo,11,0,Youri Tielemans (In From Aston Villa),68
+13,Spurs,Richarlison,11,0,Jan Paul Van Hecke (In From Brighton),68
+14,Fullham,Harry Wilson,10,0,Shea Charles (In From Southampton),65
+15,Liverpool,Hugo Ekitike,11,0,Ronald Araujo (In On Loan From Barca),63
+16,Everton,Beto,9,0,Carlos Alcaraz (In From Flamengo),62
+17,Newcastle,Bruno Guimaraes,9,0,Amar Dedic (In From Benfica),62
+18,Wolves,Matheus Cunha,10,0,Joao Gomes (Out To Aston Villa),57
+19,Sunderland,Brian Brobbey,7,0,Tom Watson (In Youth Building),56
+20,West Ham,Jarrod Bowen,9,0,Niclas Fullkrug (Out to Werder Bremen),54
